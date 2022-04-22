@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.4.22)  22 APR 2022 14:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.4.22)  22 APR 2022 15:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -918,7 +918,9 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 6.29996pt on input line 173.
 
-[1] [2]
+[1] [2
+
+]
 Package hyperref Info: Option `pageanchor' set `true' on input line 176.
 
 Chapter 1.
@@ -934,7 +936,7 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 22.39185pt on input line 178.
 LaTeX Font Info:    Font shape `T1/phv/bc/n' will be
 (Font)              scaled to size 22.39185pt on input line 178.
-(md__r_e_a_d_m_e.tex
+(md__d__0__personal__git__repos__git_hub__sample_project__r_e_a_d_m_e.tex
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 3
 .
 
@@ -948,7 +950,6 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 
 [1
 
-
 ]) [2]
 Chapter 2.
 (namespaces.tex) [3
@@ -961,17 +962,13 @@ Chapter 3.
 
 ]
 Chapter 4.
-(files.tex) [7] [8
-
-]
-Chapter 5.
 (namespace_rex.tex
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 10.79993pt on input line 3.
-) [9] [10
+) [7] [8
 
 ]
-Chapter 6.
+Chapter 5.
 (class_rex_1_1_person.tex
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 8.09995pt on input line 11.
@@ -987,77 +984,43 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 7.19995pt on input line 28.
 LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <8> not available
 (Font)              Font shape `T1/pcr/m/sl' tried instead on input line 39.
- [11] [12]) [13] [14
+ [9]) [10] [11] [12
 
-]
-Chapter 7.
-(_c_make_c_compiler_id_8c.tex [15] [16] [17])
-(_c_make_c_x_x_compiler_id_8cpp.tex [18] [19] [20]) (main_8cpp_8obj_8d.tex)
-(_person_8cpp_8obj_8d.tex) (_person_8h.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-) (_person_8h_source.tex [21]) (_r_e_a_d_m_e_8md.tex) (main_8cpp.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-[22]) (_person_8cpp.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--5
-
- []
-
-) [23] [24
-
-] (refman.ind
-Overfull \hbox (16.3866pt too wide) in paragraph at lines 17--19
-[]\T1/phv/m/n/10 build/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c,
- []
+] (refman.ind [13
 
 
-Overfull \hbox (50.40594pt too wide) in paragraph at lines 19--21
-[]\T1/phv/m/n/10 build/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp,
- []
-
-
-Overfull \hbox (22.83023pt too wide) in paragraph at lines 23--25
-[]\T1/phv/m/n/10 build/source/CMakeFiles/Sample-project.dir/Person.cpp.obj.d,
- []
-
-[25
-
-
-] [26
 
 ]) (refman.aux)
 Package rerunfilecheck Info: File `refman.out' has not changed.
-(rerunfilecheck)             Checksum: 15D29C693838DEF9EB9C3AC16BE68717;14073.
+(rerunfilecheck)             Checksum: F5AF4127F370A9983D289274ED27550D;3684.
  ) 
 Here is how much of TeX's memory you used:
- 18131 strings out of 478584
- 299737 string characters out of 2843929
- 608405 words of memory out of 3000000
- 35781 multiletter control sequences out of 15000+600000
+ 17877 strings out of 478584
+ 292500 string characters out of 2843929
+ 594668 words of memory out of 3000000
+ 35661 multiletter control sequences out of 15000+600000
  528750 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,16n,117p,701b,640s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/rexliu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C
-:/Users/rexliu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
-i10.pfb><C:/Users/rexliu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmsy10.pfb><C:/Users/rexliu/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmsy7.pfb><C:/Users/rexliu/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/rexliu/AppData/Local/Programs/MiK
-TeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Users/rexliu/AppData/Local/Programs/
-MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/rexliu/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/urw/courier/ucrro8a.pfb><C:/Users/rexliu/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/rexliu/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8ac.pfb><C:/Users/rexliu/AppData
-/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/rexliu/App
-Data/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on refman.pdf (30 pages, 240539 bytes).
+ 99i,15n,117p,428b,640s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+pdfTeX warning (dest): name{_person_8h_source} has been referenced but does not
+ exist, replaced by a fixed one
+
+{C:/Users/rexliu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/
+Users/rexliu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi1
+0.pfb><C:/Users/rexliu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb><C:/Users/rexliu/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmsy8.pfb><C:/Users/rexliu/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/urw/courier/ucrb8a.pfb><C:/Users/rexliu/AppData/Local/Programs/MiKTeX/font
+s/type1/urw/courier/ucrr8a.pfb><C:/Users/rexliu/AppData/Local/Programs/MiKTeX/f
+onts/type1/urw/courier/ucrro8a.pfb><C:/Users/rexliu/AppData/Local/Programs/MiKT
+eX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/rexliu/AppData/Local/Programs/
+MiKTeX/fonts/type1/urw/helvetic/uhvb8ac.pfb><C:/Users/rexliu/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/rexliu/AppData/Local/
+Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on refman.pdf (17 pages, 136442 bytes).
 PDF statistics:
- 813 PDF objects out of 1000 (max. 8388607)
- 169 named destinations out of 1000 (max. 500000)
- 569 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 295 PDF objects out of 1000 (max. 8388607)
+ 57 named destinations out of 1000 (max. 500000)
+ 169 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -15,12 +15,12 @@ class Person
   /**************************************************************************************
    * @brief A person's name
    *************************************************************************************/
-  std::string Name_ {"Rex Liu"};
+  std::string Name_ {"Unknown"};
 
   /**************************************************************************************
    * @brief A person's age
    *************************************************************************************/
-  int Age_ {32};
+  unsigned int Age_ {0};
 
   public:
   /**************************************************************************************
@@ -32,23 +32,9 @@ class Person
    * @brief Construct a new Person object
    * 
    * @param[in] Name Name of the person
-   *************************************************************************************/
-  Person( const std::string& Name );
-
-  /**************************************************************************************
-   * @brief Construct a new Person object
-   * 
    * @param[in] Age Age of the person
    *************************************************************************************/
-  Person( const int& Age );
-
-  /**************************************************************************************
-   * @brief Construct a new Person object
-   * 
-   * @param[in] Name Name of the person
-   * @param[in] Age Age of the person
-   *************************************************************************************/
-  Person( const std::string& Name, const int& Age );
+  Person( const std::string& Name, const unsigned int& Age );
 
   /**************************************************************************************
    * @brief Destroy the Person object
@@ -59,6 +45,20 @@ class Person
    * @brief Show the name and age of the person
    *************************************************************************************/
   void ShowInfo() const;
+
+  /**************************************************************************************
+   * @brief Set the Name_ object
+   * 
+   * @param[in] Name Name
+   *************************************************************************************/
+  void SetName( const std::string& Name );
+
+  /**************************************************************************************
+   * @brief Set the Age object
+   * 
+   * @param[in] Age Age
+   *************************************************************************************/
+  void SetAge( const unsigned int& Age );
 }; // end of the class Person
 
 } // end of the namespace Rex
